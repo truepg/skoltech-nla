@@ -1,1 +1,1 @@
-# skoltech-nla
+# Numerical Linear Algebra by Skoltech
